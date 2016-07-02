@@ -1,2 +1,4 @@
 # fuzzy-coding
-Random little programs
+Random little programs, including:
+
+- Python based encoder/decoder
