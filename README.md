@@ -1,4 +1,5 @@
 # fuzzy-coding
 Random little programs, including:
 
-- Python based encoder/decoder
+- Base64 encoder/decoder
+- Rot13 encoder/decoder
